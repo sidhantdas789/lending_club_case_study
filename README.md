@@ -22,31 +22,20 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 - The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc., thereby cutting down the amount of credit loss.
 - The dataset 'loan.csv' contains information about past loan applicants and whether they ‘defaulted’ or not. This dataset contains various consumer and loan attributes which influences the tendency to default.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
 - Pandas - version 1.4.2
 - Matplotlib - version 3.5.2
 - Seaborn - version 0.11.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by the case study assignment we worked on as a group from Upgrad.
 
 ## Contact
-Created by [@sidhantdas789] - feel free to contact me!
+Created by @sidhantdas789 and @srivay - feel free to contact us!
 
