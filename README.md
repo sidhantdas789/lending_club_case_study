@@ -36,7 +36,7 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 ## Technologies Used
 - Pandas - version 1.4.2
 - Matplotlib - version 3.5.2
-- library - version 0.11.2
+- Seaborn - version 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -48,5 +48,5 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sidhantdas789] - feel free to contact me!
 
