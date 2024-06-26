@@ -24,10 +24,16 @@ The aim is to identify patterns which indicate if a person is likely to default,
 The dataset 'loan.csv' contains information about past loan applicants and whether they ‘defaulted’ or not. This dataset contains various consumer and loan attributes which influences the tendency to default.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+**Key Drivers for loan defaults**
+ 1. States like CA and NE.
+ 2. Loan applicants with 1-3 years and 10+ years of experience.
+ 3. Loan grades with lower credit quality.
+ 4. Loan applicants with rented accommodation.
+ 5. Loan purpose – Especially small businesses and debt consolidation
+ 6. Loan applicants with 60 month’ term (higher loan amounts and interest rates).
+ 7. Lower credit quality sub-grades, especially F5 (higher loan amounts and interest rates).
+ 8. High installments for loan applicants with 4+ inquiries in last 6 months.
+ 9. High DTI.
 
 ## Technologies Used
 - Pandas - version 1.4.2
@@ -38,5 +44,5 @@ The dataset 'loan.csv' contains information about past loan applicants and wheth
 - This project was inspired by the case study assignment we worked on as a group from Upgrad.
 
 ## Contact
-Created by [@sidhantdas789] and [@srivay] - feel free to contact us!
+Created by @sidhantdas789 and @srivay - feel free to contact us!
 
